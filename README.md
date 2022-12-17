@@ -4,8 +4,7 @@
 <br><br>
 
 ## About Me
-- ⚡ Interested in Web development
-- 🙊 少しだけ日本語が話せます!
+- ⚡ Interested in web development
 
 
 <br>
