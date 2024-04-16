@@ -4,7 +4,8 @@
 <br><br>
 
 ## About Me
-- ⚡ Interested in web development
+- ⚡ Interested in web development, especially in front-end web development.
+- ⚡ Mostly use Javascript for web development
 
 
 <br>
