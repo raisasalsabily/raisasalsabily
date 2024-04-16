@@ -16,7 +16,9 @@
 
 ## Tech Stack
 <div>
-<a href='https://reactjs.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/></a>
+<a href='https://reactjs.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/></a>
+<a href='https://nodejs.org/en'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/></a>
+<a href='https://expressjs.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/></a>
 <a href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>
 <a href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/></a>
 </div>
