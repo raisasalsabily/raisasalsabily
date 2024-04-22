@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raisa</h1>
-<h3 align="center">An Information Engineering student at Universitas Gadjah Mada</h3>
+<h3 align="center">An Information Technology student at Universitas Gadjah Mada</h3>
 
 <br><br>
 
@@ -21,6 +21,15 @@
 <a href='https://expressjs.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/></a>
 <a href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>
 <a href='https://sass-lang.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/></a>
+<a href='https://www.figma.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
+<a href='https://git-scm.com'><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></a>
+<a href='https://www.mongodb.com'><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
+<a href='https://www.postgresql.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>
+<a href='https://www.mysql.com'><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>
+<a href='https://www.python.org'><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>
+<a href='https://dotnet.microsoft.com/en-us/apps/desktop'><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>
+<a href='https://azure.microsoft.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/></a>
+<a href='https://aws.amazon.com'><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>
 </div>
 
 <br>
