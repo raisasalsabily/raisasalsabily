@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raisa</h1>
-<h3 align="center">an enthusiastic web developer, focusing on front-end development. I can do back-end too 😉 I am a fresh graduate in Information Technology from Gadjah Mada University.</h3>
+<h3 align="center">An enthusiastic web developer, focusing on front-end development. I can do back-end too 😉 I am a fresh graduate in Information Technology from Gadjah Mada University.</h3>
+<h3 align="center">Go to my portfolio web: <a href="https://www.raisasalsabil.com/" target="_blank" rel="noopener noreferrer">raisasalsabil.com</a></h3>
 
 <br><br>
 
@@ -17,6 +18,7 @@
 ## Tech Stack
 <div>
 <a href='https://reactjs.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="40" height="40"/></a>
+<a href='https://nextjs.org/'><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/></a>
 <a href='https://nodejs.org/en'><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/></a>
 <a href='https://expressjs.com/'><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/></a>
 <a href='https://tailwindcss.com/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>
